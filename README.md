@@ -1,4 +1,4 @@
-### $\textcolor{green}{\textsf{The more happiness, the better}}$  👋
+### $\textcolor{green}{\textsf{ 행복은 자기가 정하기 나름이다 }}$  👋
 
 <!-- https://simpleicons.org -->
 <!-- icon (how to) : https://cocoon1787.tistory.com/689 -->
