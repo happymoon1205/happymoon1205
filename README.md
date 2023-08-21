@@ -1,4 +1,4 @@
-### Hi there 👋
+### $\textcolor{green}{\textsf{The happier you are, the better}}$  👋
 
 <!-- https://simpleicons.org -->
 <!-- icon (how to) : https://cocoon1787.tistory.com/689 -->
