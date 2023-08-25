@@ -1,6 +1,7 @@
 ### $\textcolor{green}{\textsf{ 행복은 자기가 정하기 나름이다 }}$  👋
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhappinhwa&label=♡visitors♡&labelColor=%23D5EDFF&countColor=%23D5EDFF)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappymoon1205&count_bg=%23E1E7DC&title_bg=%23186C12&icon=mailchimp.svg&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!-- https://simpleicons.org -->
 <!-- icon (how to) : https://cocoon1787.tistory.com/689 -->
